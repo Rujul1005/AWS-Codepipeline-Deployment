@@ -1,4 +1,4 @@
-# 🚀 AWS CI/CD Pipeline for Static Website
+# 🌐 AWS CI/CD Pipeline for Static Website
 
 ## 🚀 Project Overview  
 This project demonstrates a complete CI/CD pipeline for deploying a static website using AWS cloud services.
