@@ -18,7 +18,7 @@ body{
 .container{
     width: 85%;
     height: 85vh;
-    background-color: #0480f7;
+    background-color: #9357EB;
     display: flex;
     border-radius: 30px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
@@ -91,7 +91,7 @@ body{
 .container_Right .top h1{
     font-size: 2.3rem;
     font-weight: 500;
-    background-color: #0480f7;
+    background-color: #9357EB;
     padding: 2.5% 5%;
     border-radius: 30px;
     color: #fff;
@@ -151,7 +151,7 @@ body{
     padding: 3% 4%;
     border-radius: 5px;
     outline: none;
-    background-color: #0480f7;
+    background-color: #9357EB;
     border: none;
     color: #fff;
     cursor: pointer;
